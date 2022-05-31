@@ -1,0 +1,39 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  scroll-behavior: smooth;
+}
+
+:root {
+  --main-font: "Jost", sans-serif;
+  --second-font: "Karla", sans-serif;
+}
+
+body {
+  width: 400px;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  width: 400px;
+  padding: 1em;
+  margin: 2em 0;
+}
+
+.form-section {
+  margin: 0 auto;
+  max-width: 100%;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  margin: 1em 0;
+}
+
+.list-ul {
+  list-style: none;
+  padding: 1em;
+}

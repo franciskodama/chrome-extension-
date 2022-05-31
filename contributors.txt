@@ -1,0 +1,4 @@
+Chrome Extension developed by Kodama
+
+UX Design, HTML, CSS, and JS
+Francis Kodama - fk@fkodama.com

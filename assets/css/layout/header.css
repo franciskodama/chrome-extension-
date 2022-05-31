@@ -1,0 +1,21 @@
+.section-header {
+  padding: 0.5em 0;
+  background-color: #f0f1f2;
+  border-radius: 1.3em;
+  width: 100%;
+  padding: 1em;
+}
+
+.input-name-box {
+  text-align: center;
+}
+
+.greetings-txt {
+  text-align: center;
+}
+
+.motivational-quote {
+  margin: 0 auto;
+  margin-bottom: 1em;
+  text-align: center;
+}

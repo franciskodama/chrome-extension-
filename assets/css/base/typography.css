@@ -1,0 +1,30 @@
+h1,
+h2,
+p {
+  font-family: var(--second-font);
+}
+
+h1 {
+  font-family: var(--main-font);
+  font-weight: 600;
+  font-size: 1.5rem;
+  color: #444444;
+  text-transform: capitalize;
+}
+
+h2 {
+  font-family: var(--second-font);
+  font-weight: 300;
+  font-size: 1rem;
+  line-height: 1.3em;
+  color: gray;
+  /* font-style: italic; */
+}
+
+a {
+  color: gray;
+  font-family: var(--second-font);
+  font-size: 0.8rem;
+  line-height: 1.2rem;
+  padding-bottom: 1em;
+}
